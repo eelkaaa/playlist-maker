@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_heading">22sp</dimen>
+    <dimen name="text_size_body">16sp</dimen>
+    <dimen name="margin_side">16dp</dimen>
+    <dimen name="margin_bottom">28dp</dimen>
+    <dimen name="margin_top">14dp</dimen>
+    <dimen name="header_height">56dp</dimen>
+    <dimen name="margin_after_header">24dp</dimen>
+    <dimen name="button_corner_radius">16dp</dimen>
+    <dimen name="button_icon_padding">10dp</dimen>
+    <dimen name="margin_between_object">16dp</dimen>
+    <dimen name="back_button_size">48dp</dimen>
+    <dimen name="back_button_margin">4dp</dimen>
+    <dimen name="header_title_margin_to_button">12dp</dimen>
+    <dimen name="settings_item_height">61dp</dimen>
+</resources>
